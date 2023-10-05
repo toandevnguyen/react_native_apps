@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294883900052",
+    "project_id": "todosreactnativeapp",
+    "storage_bucket": "todosreactnativeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294883900052:android:d1b681659b64ca0d311281",
+        "android_client_info": {
+          "package_name": "com.react_native_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGSNtw8nhAieZDSSsvJ2RsT9WWKbSvNO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
